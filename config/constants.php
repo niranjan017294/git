@@ -2,7 +2,7 @@
 <?php
     //Create constants to store non Repeating  values
     define('LOCALHOST', 'localhost');
-    define('DB_USERNAME', 'nirusql');
+    define('DB_USERNAME', 'sqlniru');
     define('DB_PASSWORD', 'Demo_pw9');
     define('DB_NAME', 'food_order');
 
