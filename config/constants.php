@@ -3,7 +3,7 @@
     //Create constants to store non Repeating  values
     define('LOCALHOST', 'localhost');
     define('DB_USERNAME', 'nirusql');
-    define('DB_PASSWORD', 'Demo_pw9'');
+    define('DB_PASSWORD', 'Demo_pw9');
     define('DB_NAME', 'food_order');
 
     $conn = mysqli_connect(LOCALHOST, DB_USERNAME, DB_PASSWORD) or die(mysqli_error()); // Database connection
